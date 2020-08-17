@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn
 
 Violet
 Indigo
@@ -10,3 +10,4 @@ Red
 Pink
 
 These are the colors of the rainbow.
+And the Unicorn.
