@@ -5,6 +5,7 @@ Indigo
 Blue
 Green
 Yellow
+Brown
 Orange
 Red
 Pink
